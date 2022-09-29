@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+Muchas gracias por visitar mi portfolio!
 
-Template Name: MyResume
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Mi nombre: Wilmer Alexander Córdoba Arroyo
+Educacion: Desarrollador web full stack JUNIOR
+Trabajos creados: https://github.com/WilmerCordoba23/grupo_1_E-Books
