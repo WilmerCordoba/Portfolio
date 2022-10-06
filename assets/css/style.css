@@ -31,7 +31,9 @@ h5,
 h6 {
   font-family: "Raleway", sans-serif;
 }
-
+.progress-bar{
+ background-color: #5be9b9 !important;
+}
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
